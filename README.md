@@ -50,7 +50,7 @@ For more information, check out [holder readme](https://github.com/imsky/holder#
 
 ## Versioning
 
-holder_rails 1.7.0 == Holder.js 1.7
+holder_rails 1.9.0 == Holder.js 1.9
 
 ## License
 
